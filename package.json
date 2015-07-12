@@ -17,7 +17,7 @@
         "javascript formatting",
         "html formatting",
         "css formatting",
-        "handlebars formatting",
+        "handlebars formatting"
     ],
     "author": "Don Walling <dwalling@cyas.com>",
     "license": "Apache 2.0",
@@ -27,5 +27,5 @@
     "dependencies": {
         "findup": "latest",
         "jsbeautify": "latest"
-    },
+    }
 }
